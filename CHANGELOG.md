@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/alexandlazaris/gh-releases/compare/v1.0.0...v1.0.1) (2025-02-20)
+
+
+### Bug Fixes
+
+* added important README link ([8774bb7](https://github.com/alexandlazaris/gh-releases/commit/8774bb72fa5682425d1fd838f18881842e05958b))
+
 # 1.0.0 (2025-02-14)
 
 
